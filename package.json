@@ -1,0 +1,25 @@
+{
+	"name": "cmd",
+	"version": "1.0.0",
+	"main": "index.mjs",
+	"bin": {
+		"mz": "index.mjs"
+	},
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"commander": "^12.0.0",
+		"zx": "^8.0.2"
+	},
+	"devDependencies": {},
+	"repository": {
+		"type": "git",
+		"url": "y"
+	},
+	"description": ""
+}
